@@ -10,7 +10,7 @@
         "poster": "sss",
         "views": "11.698.762",
         "date": "12-05-2021",
-        "video": "../assets/videos/matrix.mp4"
+        "video": "../assets/videos/Peliculas/matrix.mp4"
         },
         {
         "id": 2,
@@ -22,7 +22,7 @@
         "poster": "sss",
         "views": "11.698.762",
         "date": "12-05-2021",
-        "video": "../assets/videos/matrix.mp4"
+        "video": "../assets/videos/Peliculas/bob.mp4"
         },
         {
         "id": 3,
@@ -34,7 +34,7 @@
         "poster": "sss",
         "views": "11.698.762",
         "date": "12-05-2021",
-        "video": "../assets/videos/matrix.mp4"
+        "video": "../assets/videos/Peliculas/spiderman.mp4"
         },
         {
         "id": 4,
@@ -46,7 +46,7 @@
         "poster": "sss",
         "views": "11.698.762",
         "date": "12-05-2021",
-        "video": "../assets/videos/matrix.mp4"
+        "video": "../assets/videos/Peliculas/spiderman.mp4"
         },
         {
             "id": 5,
@@ -58,7 +58,7 @@
             "poster": "sss",
             "views": "11.698.762",
             "date": "12-05-2021",
-            "video": "../assets/videos/matrix.mp4"
+            "video": "../assets/videos/Peliculas/jhon.mp4"
             },
             {
             "id": 6,
@@ -70,7 +70,7 @@
             "poster": "sss",
             "views": "11.698.762",
             "date": "12-05-2021",
-            "video": "../assets/videos/matrix.mp4"
+            "video": "../assets/videos/Peliculas/dragon.mp4"
             },
             {
             "id": 7,
@@ -82,7 +82,7 @@
             "poster": "sss",
             "views": "11.698.762",
             "date": "12-05-2021",
-            "video": "../assets/videos/matrix.mp4"
+            "video": "../assets/videos/Anime/shigeky.mp4"
             },
             {
             "id": 8,
@@ -94,7 +94,7 @@
             "poster": "sss",
             "views": "11.698.762",
             "date": "12-05-2021",
-            "video": "../assets/videos/matrix.mp4"
+            "video": "../assets/videos/Anime/onePeace.mp4"
             },
             {
                 "id": 9,
@@ -106,7 +106,7 @@
                 "poster": "sss",
                 "views": "11.698.762",
                 "date": "12-05-2021",
-                "video": "../assets/videos/matrix.mp4"
+                "video": "../assets/videos/Anime/dbs.mp4"
                 },
                 {
                 "id": 10,
@@ -118,7 +118,7 @@
                 "poster": "sss",
                 "views": "11.698.762",
                 "date": "12-05-2021",
-                "video": "../assets/videos/matrix.mp4"
+                "video": "../assets/videos/Anime/naruto.mp4"
                 },
                 {
                 "id": 11,
@@ -130,7 +130,7 @@
                 "poster": "sss",
                 "views": "11.698.762",
                 "date": "12-05-2021",
-                "video": "../assets/videos/matrix.mp4"
+                "video": "../assets/videos/Anime/zodiaco.mp4"
                 },
                 {
                 "id": 12,
@@ -142,7 +142,7 @@
                 "poster": "sss",
                 "views": "11.698.762",
                 "date": "12-05-2021",
-                "video": "../assets/videos/matrix.mp4"
+                "video": "../assets/videos/Anime/pokemon.mp4"
                 },
                 {
                     "id": 13,
@@ -154,7 +154,7 @@
                     "poster": "sss",
                     "views": "11.698.762",
                     "date": "12-05-2021",
-                    "video": "../assets/videos/matrix.mp4"
+                    "video": "../assets/videos/series/peace.mp4"
                     },
                     {
                     "id": 14,
@@ -166,7 +166,7 @@
                     "poster": "sss",
                     "views": "11.698.762",
                     "date": "12-05-2021",
-                    "video": "../assets/videos/matrix.mp4"
+                    "video": "../assets/videos/series/peaky.mp4"
                     },
                     {
                     "id": 15,
@@ -178,7 +178,7 @@
                     "poster": "sss",
                     "views": "11.698.762",
                     "date": "12-05-2021",
-                    "video": "../assets/videos/matrix.mp4"
+                    "video": "../assets/videos/series/loki.mp4"
                     },
                     {
                     "id": 16,
@@ -190,7 +190,7 @@
                     "poster": "sss",
                     "views": "11.698.762",
                     "date": "12-05-2021",
-                    "video": "../assets/videos/matrix.mp4"
+                    "video": "../assets/videos/series/bad.mp4"
                     },
                     {
                         "id": 17,
@@ -202,7 +202,7 @@
                         "poster": "sss",
                         "views": "11.698.762",
                         "date": "12-05-2021",
-                        "video": "../assets/videos/matrix.mp4"
+                        "video": "../assets/videos/series/wanda.mp4"
                         },
                         {
                         "id": 18,
@@ -214,7 +214,7 @@
                         "poster": "sss",
                         "views": "11.698.762",
                         "date": "12-05-2021",
-                        "video": "../assets/videos/matrix.mp4"
+                        "video": "../assets/videos/series/falcon.mp4"
                         },
                         {
                         "id": 19,
@@ -226,7 +226,7 @@
                         "poster": "sss",
                         "views": "11.698.762",
                         "date": "12-05-2021",
-                        "video": "../assets/videos/matrix.mp4"
+                        "video": "../assets/videos/series/flash.mp4"
                         },
                         {
                         "id": 20,
@@ -238,7 +238,7 @@
                         "poster": "sss",
                         "views": "11.698.762",
                         "date": "12-05-2021",
-                        "video": "../assets/videos/matrix.mp4"
+                        "video": "../assets/videos/series/chapo.mp4"
                         }               
     ]
 }
