@@ -1,0 +1,89 @@
+@import url("style.css");
+
+video {
+    width: 100%;
+    object-fit: cover;
+}
+
+.freatured-details {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1rem auto;
+}
+
+.featured-actions {
+    flex-direction: column;
+}
+
+/*movies*/
+.movies {
+     padding: 0 1em;
+     margin-top: 2.8rem;
+ }
+
+.movies-content {
+    display: flex;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+.movies-title {
+    margin-bottom: .8rem;
+}
+
+.movies-item {
+    display: inline-block;
+    margin-left: 10px;
+    width: 96px;
+    height: 144px;
+}
+
+.movies-item img {
+    width: 96px;
+    height: 144px;
+    object-fit: cover;
+}
+
+/*buttons*/
+
+.button {
+    text-align: center;
+    width: 100%;
+    margin: .4rem auto;
+    font-size: 1rem;
+}
+
+.button::before {
+    text-align: center;
+}
+
+.icon-play::before {
+    background-image: url("../assets/play.svg");
+    background-repeat: no-repeat;
+    align-self: flex-end;
+}
+
+.icon-download {
+    background-color: #333;
+    color: #fff;
+}
+
+.icon-download::before {
+    background-image: url("../assets/download.svg");
+    background-repeat: no-repeat;
+    align-self: flex-end;
+    filter: invert(100%);
+}
+
+.freatured-text-details {
+    margin-top: 1.4rem;
+}
+
+.tabs-mt {
+    margin-top: 2rem;
+}
+
+.tabs-mt .tabs-item svg path {
+    fill: #fff;
+}
+

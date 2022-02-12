@@ -13,7 +13,7 @@
        <nav>
         <ul class="navigation"> 
             <li class="navigation-item">
-                <a href="#">Series</a>
+                <a href="pages/movieDetails.html" target="_blank">Series</a>
             </li>
             <li class="navigation-item">
                 <a href="#">Peliculas</a>
@@ -27,7 +27,7 @@
 
     
         <div class="featured">
-            <video autoplay height="500" src="assets/MATRIX - Neo esquiva las balas.mp4"></video>
+            <video class="videoBox" height="500" src="assets/MATRIX - Neo esquiva las balas.mp4"></video>
         <div class="featured-details">
             <ul class="tags">
                 <li class="tag">
@@ -50,7 +50,7 @@
                 <button class="button-secondary icon-plus">
                     Mi lista
                 </button>
-                <button class="button icon-play">
+                <button class="button icon-play" id="btn-play">
                     Reproducir
                 </button>
                 <button class="button-secondary icon-info">
@@ -63,7 +63,8 @@
         <main>
             <div class="movies">
                 <h2 class="movies-title">Populares en NetNet</h2>
-                <div class="movies-content">
+                <div class="movies-content" id="moviesRanking">
+                    <!--
                     <div class="movies-item">
                         <a href="#">
                             <img src="assets/Rectangle 30 (1).png" alt="">
@@ -104,11 +105,13 @@
                             <img src="assets/Rectangle 30 (1).png" alt="">
                         </a>
                     </div>
+                    -->
                 </div>
             </div>
             <div class="movies">
                 <h2 class="movies-title">Series japonesas anime</h2>
-                <div class="movies-content">
+                <div class="movies-content" id="animeSeries">
+                    <!--
                     <div class="list-item">
                         <a href="#">
                             <img src="assets/Rectangle 30 (1).png" alt="">
@@ -149,11 +152,13 @@
                             <img src="assets/Rectangle 30 (1).png" alt="">
                         </a>
                     </div>
+                    -->
                 </div>
             </div>
             <div class="movies">
                 <h2 class="movies-title">Series de EE.UU. sobre crimenes</h2>
-                <div class="movies-content">
+                <div class="movies-content" id="seriesEEUU">
+                   <!--
                     <div class="movies-item">
                         <a href="#">
                             <img src="assets/Rectangle 30 (1).png" alt="">
@@ -194,6 +199,7 @@
                             <img src="assets/Rectangle 30 (1).png" alt="">
                         </a>
                     </div>
+                    -->
                 </div>
             </div>
         </main>
@@ -239,5 +245,6 @@
             </ul>
         </footer>
 
+        <script src="scripts/index.js"></script>i
 </body>
 </html>
