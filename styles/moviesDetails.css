@@ -2,7 +2,7 @@
 
 video {
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .freatured-details {
@@ -77,6 +77,7 @@ video {
 
 .freatured-text-details {
     margin-top: 1.4rem;
+    color: #a3a3a3;
 }
 
 .tabs-mt {
@@ -87,3 +88,19 @@ video {
     fill: #fff;
 }
 
+@media screen and (min-width: 668px) {
+    .movies-item {
+        width: 280px;
+        height: 440px;
+    }
+
+    .movies-item img {
+        width: 280px;
+        height: 440px;
+    }
+
+    video {
+        object-fit: cover;
+    }
+
+}

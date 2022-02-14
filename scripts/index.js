@@ -1,6 +1,8 @@
 const d = document;
-const $btnPlay = document.getElementById("btn-play");
-
+const $btnPlay = d.getElementById("btn-play");
+const $linkSeries = d.getElementById("link-series");
+const $linkMovies = d.getElementById("link-movies");
+const $linkLista = d.getElementById("link-lista");
 
 /* movie containers */
 const $moviesRankingContainer = d.getElementById("moviesRanking"),
@@ -89,3 +91,19 @@ async function verVideo(id) {
     window.location.href = "../pages/movieDetails.html";
 
 }
+
+/* links */
+
+$linkSeries.addEventListener("click", async () => {
+    localStorage.setItem("pelis", "EEUU");
+    window.location = "pages/movies.html";
+})
+
+$linkMovies.addEventListener("click", async () => {
+    localStorage.setItem("pelis", "Popular");
+    window.location = "pages/movies.html";
+})
+
+$linkLista.addEventListener("click", () => {
+    window.location = "/";
+})

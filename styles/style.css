@@ -43,6 +43,13 @@ main {
      min-height: 100vh;
  }
 
+p {
+    font-size: 1.4rem;
+    line-height: 28px;
+    margin-bottom: 1.4rem;
+    letter-spacing: 1px;
+}
+
  /*utilities*/
  .container {
     width: 96%;
@@ -128,6 +135,15 @@ main {
      color: var(--icon-color);
  }
  
+ main .tabs-list {
+     justify-content: start;
+ }
+
+ main .tabs-item {
+     margin-right: 2rem;
+ }
+
+ 
  .tabs-list a {
      color: var(--icon-color);
      text-align: center;
@@ -211,6 +227,10 @@ svg path {
         width: 100%;
         height: 600px;
         object-fit: cover;
+    }
+
+    p {
+        font-size: 1.65rem;
     }
 }
 

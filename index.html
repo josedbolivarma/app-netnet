@@ -12,13 +12,13 @@
         <img src="assets/logo-netflix.png" alt="">
        <nav>
         <ul class="navigation"> 
-            <li class="navigation-item">
-                <a href="pages/movieDetails.html" target="_blank">Series</a>
+            <li class="navigation-item" id="link-series">
+                <a href="#">Series</a>
             </li>
-            <li class="navigation-item">
+            <li class="navigation-item" id="link-movies">
                 <a href="#">Peliculas</a>
             </li>
-            <li class="navigation-item">
+            <li class="navigation-item" id="link-lista">
                 <a href="#">Lista</a>
             </li>
         </ul>
@@ -27,7 +27,7 @@
 
     
         <div class="featured">
-            <video class="videoBox" height="500" src="assets/MATRIX - Neo esquiva las balas.mp4"></video>
+            <video class="videoBox" poster="../assets/poster/popular/matrix.jpg" height="500" src="assets/MATRIX - Neo esquiva las balas.mp4"></video>
         <div class="featured-details">
             <ul class="tags">
                 <li class="tag">
@@ -53,7 +53,7 @@
                 <button class="button icon-play" id="btn-play">
                     Reproducir
                 </button>
-                <button class="button-secondary icon-info">
+                <button class="button-secondary icon-info" id="btn-info">
                     Info
                 </button>
             </div>
@@ -64,153 +64,26 @@
             <div class="movies">
                 <h2 class="movies-title">Populares en NetNet</h2>
                 <div class="movies-content" id="moviesRanking">
-                    <!--
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    -->
+                   
                 </div>
             </div>
             <div class="movies">
                 <h2 class="movies-title">Series japonesas anime</h2>
                 <div class="movies-content" id="animeSeries">
-                    <!--
-                    <div class="list-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    -->
+             
                 </div>
             </div>
             <div class="movies">
                 <h2 class="movies-title">Series de EE.UU. sobre crimenes</h2>
                 <div class="movies-content" id="seriesEEUU">
-                   <!--
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    <div class="movies-item">
-                        <a href="#">
-                            <img src="assets/Rectangle 30 (1).png" alt="">
-                        </a>
-                    </div>
-                    -->
+                
                 </div>
             </div>
         </main>
 
         <footer class="footer">
-            
-            
-            
-            
             <ul class="tabs-list">
-                <li class="tabs-item">
+                <li class="tabs-item" id="btn-icon-inicio">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M12 2.09961L1 12H4V21H11V15H13V21H20V12H23L12 2.09961ZM12 4.79102L18 10.1914V11V19H15V13H9V19H6V10.1914L12 4.79102Z" fill="black"/>
                         </svg>                        
