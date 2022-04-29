@@ -12,7 +12,7 @@ $SeriesEEUUContainer = d.getElementById("seriesEEUU");
 
 async function getMovies(){
     try {
-        const resp = await fetch("http://localhost:3000/movies");
+        const resp = await fetch("https://app-netnet.herokuapp.com/movies");
         const data = await resp.json();
         return data;
     }catch(err){
