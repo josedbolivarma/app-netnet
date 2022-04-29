@@ -10,7 +10,7 @@
       "poster": "../assets/poster/popular/matrix.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Peliculas/matrix.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651243873/samples/NetNet/videos/Peliculas/matrix_lzpvaj.mp4",
       "duration": "2h 18m",
       "actors": "Keanu Reeves, Laurence Fishburne"
     },
@@ -24,7 +24,7 @@
       "poster": "../assets/poster/popular/bobesponja.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Peliculas/bob.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651243870/samples/NetNet/videos/Peliculas/bob_u92pw7.mp4",
       "duration": "2h 18m",
       "actors": "Tom Kenny como Bob Esponja, Gary y el Narrador Bill Fagerbakke como Patricio Estrella Rodger Bumpass como Calamardo Tentáculos Clancy Brown como Don Cangrejo Carolyn Lawrence como Arenita Mejillas"
     },
@@ -38,7 +38,7 @@
       "poster": "../assets/poster/popular/spiderman.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Peliculas/spiderman.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651243880/samples/NetNet/videos/Peliculas/spiderman_tzj2om.mp4",
       "duration": "2h 18m",
       "actors": "Tom Holland, Tobey Maguire, Andrew Garfield, Zendaya, Willem Dafoe"
     },
@@ -52,7 +52,7 @@
       "poster": "../assets/poster/popular/christmast.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Peliculas/spiderman.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651243880/samples/NetNet/videos/Peliculas/spiderman_tzj2om.mp4",
       "duration": "2h 18m",
       "actors": "Kurt Russell, Darby Camp, Judah Lewis"
     },
@@ -66,7 +66,7 @@
       "poster": "../assets/poster/popular/jhonwick.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Peliculas/jhon.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651243864/samples/NetNet/videos/Peliculas/jhon_v1hijx.mp4",
       "duration": "2h 18m",
       "actors": "Keanu Reeves, Halle Berry, Laurence Fishburne"
     },
@@ -80,7 +80,7 @@
       "poster": "../assets/poster/popular/dragon.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Peliculas/dragon.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651243872/samples/NetNet/videos/Peliculas/dragon_u8phma.mp4",
       "duration": "2h 18m",
       "actors": "Jay Baruchel, America Ferrera, Gerad Butler, Kit Harington"
     },
@@ -94,7 +94,7 @@
       "poster": "../assets/poster/anime/shingeki.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Anime/shigeky.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244175/samples/NetNet/videos/Anime/shigeky_stw5dw.mp4",
       "duration": "2h 18m",
       "actors": "Eren, Mikasa, Armin"
     },
@@ -108,7 +108,7 @@
       "poster": "../assets/poster/anime/onepiece.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Anime/onePeace.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244175/samples/NetNet/videos/Anime/onepunchman_v1rvrf.mp4",
       "duration": "2h 18m",
       "actors": "Monkey D. Luffy"
     },
@@ -122,7 +122,7 @@
       "poster": "../assets/poster/anime/dragonballsuper.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Anime/dbs.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244158/samples/NetNet/videos/Anime/dbs_extr1q.mp4",
       "duration": "2h 18m",
       "actors": "Goku, Vegeta, Bills"
     },
@@ -136,7 +136,7 @@
       "poster": "../assets/poster/anime/naruto.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Anime/naruto.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244157/samples/NetNet/videos/Anime/naruto_z8b5c0.mp4",
       "duration": "2h 18m",
       "actors": "Naruto, Sakura, Sasuke"
     },
@@ -150,7 +150,7 @@
       "poster": "../assets/poster/anime/caballeros.jpg",
       "views": "11.698.762",
       "date": "12-05-2014",
-      "video": "../assets/videos/Anime/zodiaco.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244163/samples/NetNet/videos/Anime/zodiaco_nyavqz.mp4",
       "duration": "2h 18m",
       "actors": "Seiya, Hyoga, Shiryu, Shun e Ikki"
     },
@@ -164,7 +164,7 @@
       "poster": "../assets/poster/anime/pokemon.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Anime/pokemon.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244156/samples/NetNet/videos/Anime/pokemon_jwnhgv.mp4",
       "duration": "2h 18m",
       "actors": "Pikachu ,Ash"
     },
@@ -178,7 +178,7 @@
       "poster": "../assets/poster/eeuu/peacemaker.jpg",
       "views": "11.698.762",
       "date": "13-01-2022",
-      "video": "../assets/videos/series/peace.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244496/samples/NetNet/videos/Series/peace_ntefiq.mp4",
       "duration": "2h 18m",
       "actors": "Jhon Cena, James Gunn, Peter ..."
     },
@@ -192,7 +192,7 @@
       "poster": "../assets/poster/eeuu/blinders.jpg",
       "views": "11.698.762",
       "date": "12-09-2013",
-      "video": "../assets/videos/series/peaky.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244479/samples/NetNet/videos/Series/peaky_p4qvrw.mp4",
       "duration": "2h 18m",
       "actors": "Cillian Murphy, Sam Neill, Helen McCrory"
     },
@@ -206,7 +206,7 @@
       "poster": "../assets/poster/eeuu/loki.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/series/loki.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244496/samples/NetNet/videos/Series/loki_ekwnwn.mp4",
       "duration": "2h 18m",
       "actors": "Keanu Reeves, Laurence Fishburne"
     },
@@ -220,7 +220,7 @@
       "poster": "../assets/poster/eeuu/breakingbad.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/series/bad.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244490/samples/NetNet/videos/Series/bad_s9y8cy.mp4",
       "duration": "2h 18m",
       "actors": "Vince Gilligan, Aaron Paul, Bryan Cranston"
     },
@@ -234,7 +234,7 @@
       "poster": "../assets/poster/eeuu/wandavision.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/series/wanda.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244479/samples/NetNet/videos/Series/wanda_tngt1t.mp4",
       "duration": "2h 18m",
       "actors": "Elizabeth Olsen, Paul Bettany, Kathryn Hahn"
     },
@@ -248,7 +248,7 @@
       "poster": "../assets/poster/eeuu/falcon.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/series/falcon.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244493/samples/NetNet/videos/Series/falcon_e9agwi.mp4",
       "duration": "60 min",
       "actors": "Anthony Mackie, Sebastian Stan, Emily VanCamp"
     },
@@ -262,7 +262,7 @@
       "poster": "../assets/poster/eeuu/flash.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/series/flash.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244480/samples/NetNet/videos/Series/flash_jmzpuh.mp4",
       "duration": "2h 18m",
       "actors": "Grant Gustin, Candice Patton, Danielle Panabaker"
     },
@@ -276,7 +276,7 @@
       "poster": "../assets/poster/eeuu/elchapo.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/series/chapo.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244490/samples/NetNet/videos/Series/chapo_mi4rgh.mp4",
       "duration": "50 min",
       "actors": "Marco de la O, Humberto Busto, Alejandro Aguilar"
     },
@@ -290,7 +290,7 @@
       "poster": "../assets/poster/eeuu/darevil.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/series/darevil.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244506/samples/NetNet/videos/Series/darevil_irfu3q.mp4",
       "duration": "50 min",
       "actors": "Rosario Dawson, Vincent D'Onofrio, Deborah Ann Woll,Elden Henson y Toby Leonard Moore."
     },
@@ -304,7 +304,7 @@
       "poster": "../assets/poster/eeuu/hawkeye.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/series/hawkeye.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244497/samples/NetNet/videos/Series/hawkeye_ofbhjw.mp4",
       "duration": "50 min",
       "actors": "Kate Bishop, Clint Barton."
     },
@@ -318,7 +318,7 @@
       "poster": "../assets/poster/eeuu/watchmen.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/series/watchmen.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244479/samples/NetNet/videos/Series/watchmen_sdffu0.mp4",
       "duration": "50 min",
       "actors": "Rosario Dawson, Vincent D'Onofrio, Deborah Ann Woll,Elden Henson y Toby Leonard Moore."
     },
@@ -332,7 +332,7 @@
       "poster": "../assets/poster/popular/venom2.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Peliculas/venom2.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651243877/samples/NetNet/videos/Peliculas/venom2_w10791.mp4",
       "duration": "50 min",
       "actors": "Rosario Dawson, Vincent D'Onofrio, Deborah Ann Woll,Elden Henson y Toby Leonard Moore."
     },
@@ -346,7 +346,7 @@
       "poster": "../assets/poster/popular/freeguy.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Peliculas/freeguy.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651243900/samples/NetNet/videos/Peliculas/freeguy_vf1rud.mp4",
       "duration": "50 min",
       "actors": "Ryan Raynolds"
     },
@@ -360,7 +360,7 @@
       "poster": "../assets/poster/anime/onepunchman.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Anime/onepunchman.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244175/samples/NetNet/videos/Anime/onepunchman_v1rvrf.mp4",
       "duration": "50 min",
       "actors": "Ryan Raynolds"
     },
@@ -374,7 +374,7 @@
       "poster": "../assets/poster/anime/tokioghoul.jpg",
       "views": "11.698.762",
       "date": "12-05-2021",
-      "video": "../assets/videos/Anime/tokioghoul.mp4",
+      "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651244166/samples/NetNet/videos/Anime/tokioghoul_rzljb1.mp4",
       "duration": "50 min",
       "actors": "Ryan Raynolds"
     },
@@ -388,7 +388,7 @@
         "poster": "../assets/poster/popular/miventana.jpg",
         "views": "11.698.762",
         "date": "12-05-2021",
-        "video": "../assets/videos/Peliculas/miventana.mp4",
+        "video": "https://res.cloudinary.com/duzncuogi/video/upload/v1651243858/samples/NetNet/videos/Peliculas/miventana_e0rcis.mp4",
         "duration": "50 min",
         "actors": "Ryan Raynolds"
       }
