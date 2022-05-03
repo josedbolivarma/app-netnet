@@ -12,7 +12,7 @@
     /* Shadow */
     --white-alpha-color:rgba(255, 255, 255, 0.5);
     --black-alpha-color:rgba(0, 0, 0, 0.5);
-    --font-family:"Raleway","sans serif";
+    --font-family:"Poppins","sans serif";
 }
 
 /*Reset*/
@@ -27,8 +27,8 @@
 body {
     background-color: #000;
     color: #fff;
-    font-family: 'Raleway', sans-serif;
-    font-family: 'Rowdies', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 a {
